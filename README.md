@@ -52,7 +52,7 @@ The application is made in the form of a web application, a console application 
 
 ### Installation and Setup
 
-1. Clone this repository from Github - `git clone https://github.com/jurispetrovs/password-generator.git`.
+1. Clone this repository from Github - `https://github.com/jurispetrovs/password-generator.git`.
 2. Go to the `console-app (windows)` folder.
 3. Run the executable file with command: `application.exe`.
 4. To submit parameters immediately, use the command: `application.exe 100 5`, where the first parameter is max list number (min value 10) and second parameter is max password length (min value 4).
